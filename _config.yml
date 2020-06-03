@@ -15,12 +15,12 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Junghye's Blog"
+locale                   : "ko-KR"
+title                    : "Devvvvvlog"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junghye"
-description              : "Junghye's Blog."
+name                     : "JH"
+description              : "프론트엔드 하나씩 하나씩"
 url                      : "https://jung-hye.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "JH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Front-end** 고민한 흔적들을 나눠요. 마치 나처럼 *아직도* 모든 것이 너무 어렵고, 왜 **나만 빼고 다 잘하는 것만 같은** 사람들을 위하여 가급적 자세하고, 쉽게 설명해봅니다!"
+  bio              : "**Front-end** 고민한 흔적들을 나눠요."
   location         : "South Korea"
   email            : 
   links:

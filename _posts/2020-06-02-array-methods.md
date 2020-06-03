@@ -23,24 +23,7 @@ category: JavaScript
     // output
     ['a', 'b', 'c', 'd'];
     ```
-2. pop(elem)
-
-    `배열의 가장 마지막 엘리먼트를 제거한다.`
-
-    - 변경시키고 싶은 배열.pop()
-    - 배열에 가장 마지막 엘리먼트를 제거한다.
-    - 기존 배열을 변형시킨다.
-    - 파라미터 값이 없다! 그냥 쓰면 된다.
-
-    ```javascript
-    const arr = ['a', 'b', 'c'];
-    arr.pop();
-    console.log(arr);
-
-    // output
-    ['a', 'b'];
-    ```
-3. pop(elem)
+3. pop()
 
     `배열에 가장 마지막 엘리먼트를 제거한다.`
 
